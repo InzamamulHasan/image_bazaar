@@ -57,3 +57,7 @@ button:hover{
 img:hover{
   cursor: pointer;
 }
+.description{
+  color: rgb(226, 230, 23);
+  margin: 0px 10px;
+}
